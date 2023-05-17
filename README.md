@@ -1,2 +1,3 @@
-# y3_s1_we_it_01_02_itpm_grp_68
+# Project Name - ITPM_GRP_68
+# Batch - Y3.S1.WE.IT.01.02
 Tourist Reservation System 
