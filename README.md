@@ -5,4 +5,6 @@
 ### Member 3 - IT21099786 - Miss Jayasekara W.R.S.K (it21099786)
 ### Member 4 - IT21012174 - Mr. Pabasara R.P.P (it21012174)
 ### Member 5 - IT20126056 - Mr. Lakshana W.N.R.A.S. (it20126056)  
+#### Brief Description of Project -
 Tourist Reservation System 
+#### Technologies used - MERN stack
