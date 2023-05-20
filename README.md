@@ -7,4 +7,4 @@
 ### Member 5 - IT20126056 - Mr. Lakshana W.N.R.A.S. (it20126056)  
 #### Brief Description of Project -
 This Tourist Reservation System project aims to simplify the tasks of user and Reserve Hotels, Flights, Attraction and Car Rentals online instead of going out to place and wasting time. So, this system can use by foreign tourist, local tourist, Hotel owners and lots of third-party people. The Administrator will have additional functionalities when compared to the common user. He can add, delete, and update the reservation details and categories of the user information.
-#### Technologies used - MERN stack
+#### Technologies used - MERN stack and PHP
